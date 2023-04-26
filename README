@@ -2,6 +2,8 @@ This project houses an Excel file that calls a Python optimization code that sch
 
 In the Excel file, the user inputs a set of desired backup generators (and their characteristics) for a home assumed to be off-grid (such as during a grid power outage), an assumed 15-minute weather profile for the home, and a set of appliances to run using the backup generators.  There are many backup generator options (e.g., electric vehicle connected to the home, portable gasoline generator, photovoltaic panels, etc.) and home appliances (microwave, refrigerator, air conditioner, mobile phone charger, etc.).
 
+For all practical purposes, the Python optimization runs effectively using the Gurobi optimization algorithms (https://www.gurobi.com/) that are available for free to academics and some non-profits, but must be purchased for use in for-profit companies.
+
 3 files are on this repository:
 
 1. Installation_Instructions_Home_Backup_Tool_Optimization_... .docx: Installation instructions
