@@ -8,4 +8,4 @@ For all practical purposes, the Python optimization runs effectively using the G
 
 1. Installation_Instructions_Home_Backup_Tool_Optimization_... .docx: Installation instructions
 2. Computational_Tool_Home_Backup_Optimization_... .py: Python code that runs optimization
-3. Computational_Tool_Home_Backup_Optimization_... .xlmx: Excel file, that is the user interface for defining INPUTS and viewing OUTPUT from the optimization.
+3. Computational_Tool_Home_Backup_Optimization_... .xlsm: Excel file, that is the user interface for defining INPUTS and viewing OUTPUT from the optimization.
